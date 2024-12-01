@@ -1,1 +1,50 @@
 /*Schrijf hier jouw CSS*/
+/*Schrijf hier jouw CSS*/
+body {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    flex-basis: auto;
+}
+
+.outer-col-1{
+    flex-basis: 20vw;
+
+}
+
+.outer-col-2{
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    flex-grow: 1;
+}
+header{
+     flex-basis: 15vh;
+ }
+.inner-row {
+display: flex;
+    flex-basis: auto;
+    flex-grow: 1;
+
+}
+.inner-col {
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    flex-grow: 3;
+
+}
+
+
+article{
+    flex-basis: auto;
+    flex-grow: 8;
+}
+aside{
+    flex-basis: auto;
+    flex-grow: 1;
+}
+footer {
+    flex-basis: 15vh;
+    flex-grow: 1;
+}
