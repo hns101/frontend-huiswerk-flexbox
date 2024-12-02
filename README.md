@@ -1,3 +1,12 @@
+Beste peer review buddy,
+Helaas had ik er niet over na gedacht om eerst een branch te maken zo dat ik hier een pull request op kon zetten, dus alles staat op de main er is geen verschil in banches.
+Sorry zal het de volgende keer wel correct doen zo dat de pull request wel juist er in komt te staan. Jammer genoeg zal je in de main files moeten gaan kijken of het juist is.
+
+Met vriendelijke groet,
+Hans Bregman
+Bootcamp FullStack SD
+
+
 # Opdrachtomschrijving
 
 Zoals je hebt geleerd kun je met flexbox HTML elementen op diverse manier uitlijnen, maar ook complexe layouts maken.
